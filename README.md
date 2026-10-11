@@ -7,7 +7,8 @@ Build your family tree in the browser. One page, no account, nothing to install.
 ## What it does
 
 - Add parents, partners, children and siblings with a couple of taps. Each person has a name, a birth or maiden name when it differs, dates of birth and death (a year is enough), a gender and free notes.
-- Marriages, partnerships, divorces and separations are drawn differently, and a couple can be given its own dates.
+- Marriages, partnerships, divorces, separations and parents who were never a couple are drawn differently, and a couple can be given its own dates. The kind is chosen when the partner is added and can be changed later.
+- When you add a brother, sister, parent or child, the family name they most likely share is already in the box. A "Name order" setting in the menu says whether the family name comes first, as in Hungarian, or last, as in English; it follows the language unless you change it.
 - The tree is drawn around whoever you centre it on: their ancestors above, their parents' descendants below. Drag to pan, pinch or scroll to zoom, tap a card to open it. A `+` badge on a card means more relatives are hidden; centre the tree on that person to see them.
 - Put someone in the wrong place? Press and hold their card and drag it onto the right parent, onto a brother or sister, or onto the ring between a couple. Their partner and children come along. The Move button in the side panel does the same with a tap instead of a drag.
 - Show everyone at once with the button beside the zoom controls: the whole tree in one picture, generation by generation, with the families people married into drawn next to them. Jumping to a person then just scrolls to them. The choice is remembered for each tree.
