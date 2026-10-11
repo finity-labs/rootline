@@ -6,7 +6,7 @@ Build your family tree in the browser. One page, no account, nothing to install.
 
 ## What it does
 
-- Add parents, partners, children and siblings with a couple of taps. Each person has a name, a birth or maiden name when it differs, dates of birth and death (a year is enough), a gender and free notes.
+- Add parents, partners, children and siblings with a couple of taps. Each person has a name, a birth or maiden name when it differs, dates of birth and death (a year is enough), a place of birth, where they live or lived, a gender and free notes.
 - Marriages, partnerships, divorces, separations and parents who were never a couple are drawn differently, and a couple can be given its own dates. The kind is chosen when the partner is added and can be changed later.
 - When you add a brother, sister, parent or child, the family name they most likely share is already in the box. A "Name order" setting in the menu says whether the family name comes first, as in Hungarian, or last, as in English; it follows the language unless you change it.
 - The tree is drawn around whoever you centre it on: their ancestors above, their parents' descendants below. Drag to pan, pinch or scroll to zoom, tap a card to open it. A `+` badge on a card means more relatives are hidden; centre the tree on that person to see them.
@@ -15,12 +15,17 @@ Build your family tree in the browser. One page, no account, nothing to install.
 - Removing a person can take everyone below them along, in one step that Undo brings back.
 - Undo and redo, a search box, and a list of everyone in the tree that you can narrow by name or year.
 - Keep several trees side by side, each with its own name, and switch between them from the menu. Opening a file or the sample family never replaces a tree you have been working on.
+- Join a tree someone sends you into your own. Pick one person who is in both, Rootline finds the others, you check its matches, and nobody ends up in the tree twice.
+- Link a person to the same person in another tree you keep, and jump between the two.
+- See everyone's places on an OpenStreetMap map. Tap a pin to see who was born or lives there.
 - Save the tree as a file and open it again later or on another device. Export to GEDCOM for other genealogy programs, or save the drawing as a PNG or SVG picture.
 - Works offline once opened, and installs as an app on phones and tablets.
 
 ## Your data stays with you
 
 Rootline runs entirely in your browser. Your trees are kept in the browser's own storage on your device and are never sent anywhere. There is no server, no account and no tracking. If you want a copy, or want to move a tree to another device, save it to a file from the menu.
+
+The one exception is the map, and only if you ask for it. The first time you open it, Rootline asks whether it may send the place names in your tree, the cities and countries, to OpenStreetMap to find them on the map. People's names are never sent. You can stop it again from the map, and Rootline then forgets the places it looked up.
 
 Clearing the browser's site data removes the trees, so keep a saved file of anything you would not want to lose.
 

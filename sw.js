@@ -3,7 +3,7 @@
 // responses are cached, and the index.html fallback is reserved for page
 // navigations, so a missing language file fails honestly offline.
 // release.sh fills in the cache name and the list of language files.
-const CACHE = 'rootline-a5f4538';
+const CACHE = 'rootline-bbd67ff';
 const LANG = ['lang/cs.js','lang/de.js','lang/en.js','lang/es.js','lang/fr.js','lang/hr.js','lang/hu.js','lang/it.js','lang/nl.js','lang/pl.js','lang/pt.js','lang/ro.js','lang/sk.js','lang/sv.js','lang/uk.js'];
 const ASSETS = ['.', 'index.html', 'manifest.webmanifest', 'icon-192.png', 'icon-512.png', 'lang/languages.js', ...LANG];
 self.addEventListener('install', e => {
