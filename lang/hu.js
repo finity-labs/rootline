@@ -117,6 +117,8 @@ window.ROOTLINE_STRINGS.hu = {
   "toast.storageBlocked": "Ez a böngésző nem őrzi meg a családfát két látogatás között. Mentsd fájlba, mielőtt elmész.",
   "people.title": "Mindenki a családfán",
   "people.count": "{count} személy",
+  "people.filter": "Szűrés névre vagy évre",
+  "people.matches": "{count} találat {total} személyből",
   "people.unconnected": "Nem kapcsolódik hozzá: {name}",
   "people.empty": "Még senki.",
   "about.text": "A Rootline a családfáidat csak ebben a böngészőben tárolja. Semmit nem küld sehova. Ments fájlba egy családfát, ha másolatot akarsz, vagy másik eszközre vinnéd.",

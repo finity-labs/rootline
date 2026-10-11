@@ -119,6 +119,8 @@ window.ROOTLINE_STRINGS.en = {
   "toast.storageBlocked": "This browser is not keeping the tree between visits. Save it to a file before you leave.",
   "people.title": "Everyone in the tree",
   "people.count": "{count} people",
+  "people.filter": "Filter by name or year",
+  "people.matches": "{count} of {total} people",
   "people.unconnected": "Not connected to {name}",
   "people.empty": "Nobody yet.",
   "about.text": "Rootline keeps your family trees in this browser only. Nothing is sent anywhere. Save a tree to a file to keep a copy or move it to another device.",
