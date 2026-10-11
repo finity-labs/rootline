@@ -12,6 +12,7 @@ Build your family tree in the browser. One page, no account, nothing to install.
 - The tree is drawn around whoever you centre it on: their ancestors above, their parents' descendants below. Drag to pan, pinch or scroll to zoom, tap a card to open it. A `+` badge on a card means more relatives are hidden; centre the tree on that person to see them.
 - Put someone in the wrong place? Press and hold their card and drag it onto the right parent, onto a brother or sister, or onto the ring between a couple. Their partner and children come along. The Move button in the side panel does the same with a tap instead of a drag.
 - Show everyone at once with the button beside the zoom controls: the whole tree in one picture, generation by generation, with the families people married into drawn next to them. Jumping to a person then just scrolls to them. The choice is remembered for each tree.
+- Removing a person can take everyone below them along, in one step that Undo brings back.
 - Undo and redo, a search box, and a list of everyone in the tree that you can narrow by name or year.
 - Keep several trees side by side, each with its own name, and switch between them from the menu. Opening a file or the sample family never replaces a tree you have been working on.
 - Save the tree as a file and open it again later or on another device. Export to GEDCOM for other genealogy programs, or save the drawing as a PNG or SVG picture.
