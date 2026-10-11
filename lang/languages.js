@@ -6,4 +6,17 @@
 window.ROOTLINE_LANGUAGES = [
   { code: 'en', name: 'English' },
   { code: 'hu', name: 'Magyar', familyFirst: true },
+  { code: 'de', name: 'Deutsch' },
+  { code: 'fr', name: 'Français' },
+  { code: 'es', name: 'Español' },
+  { code: 'it', name: 'Italiano' },
+  { code: 'pt', name: 'Português' },
+  { code: 'nl', name: 'Nederlands' },
+  { code: 'pl', name: 'Polski' },
+  { code: 'cs', name: 'Čeština' },
+  { code: 'sk', name: 'Slovenčina' },
+  { code: 'ro', name: 'Română' },
+  { code: 'hr', name: 'Hrvatski' },
+  { code: 'sv', name: 'Svenska' },
+  { code: 'uk', name: 'Українська' },
 ];

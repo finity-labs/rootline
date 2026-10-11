@@ -1,6 +1,7 @@
 // English strings: the master file. Every other lang/<code>.js must have the
 // same keys (node tools/check-lang.js verifies that). Placeholders in braces,
-// such as {name}, are filled in by the app.
+// such as {name}, are filled in by the app. card.birthName may add a second form
+// for men after a bar, for languages whose word for it is gendered: "née {name}|né {name}".
 window.ROOTLINE_STRINGS = window.ROOTLINE_STRINGS || {};
 window.ROOTLINE_STRINGS.en = {
   "app.name": "Rootline",

@@ -25,7 +25,7 @@ Clearing the browser's site data removes the trees, so keep a saved file of anyt
 
 ## Languages
 
-Rootline speaks English and Hungarian. Each language is one file in `lang/`. To add yours, copy `lang/en.js`, translate every value, save it as `lang/<code>.js`, and add the code and the language's name (written in that language) to `lang/languages.js`. Pull requests with new languages are welcome.
+Rootline speaks English, Hungarian, German, French, Spanish, Italian, Portuguese, Dutch, Polish, Czech, Slovak, Romanian, Croatian, Swedish and Ukrainian, and picks the language of your browser. Each language is one file in `lang/`. To add yours, copy `lang/en.js`, translate every value, save it as `lang/<code>.js`, and add the code and the language's name (written in that language) to `lang/languages.js`. Pull requests with new languages are welcome.
 
 ## Licence
 
