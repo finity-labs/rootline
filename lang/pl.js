@@ -182,6 +182,7 @@ window.ROOTLINE_STRINGS.pl = {
   "people.unconnected": "Bez powiązania z: {name}",
   "people.empty": "Jeszcze nikogo tu nie ma.",
   "about.text": "Rootline trzyma drzewa genealogiczne tylko w tej przeglądarce. Niczego nigdzie nie wysyła, chyba że otworzysz mapę i zgodzisz się na wysłanie nazw miejsc do OpenStreetMap. Zapisz drzewo do pliku, żeby mieć kopię albo przenieść je na inne urządzenie.",
+  "about.notice": "Rootline jest bezpłatny i udostępniany w obecnej postaci, bez żadnej gwarancji. Twoje drzewa są tak bezpieczne jak ta przeglądarka: jeśli wyczyścisz jej dane albo użyjesz okna prywatnego, mogą zniknąć. Finity Labs nie odzyska utraconych drzew, więc co jakiś czas zapisuj je do pliku.",
   "about.source": "Kod źródłowy i licencja",
   "about.by": "Autor: Finity Labs",
   "card.birthName": "z d. {name}",

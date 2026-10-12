@@ -182,6 +182,7 @@ window.ROOTLINE_STRINGS.ro = {
   "people.unconnected": "Fără legătură cu {name}",
   "people.empty": "Încă nimeni.",
   "about.text": "Rootline îți păstrează arborii genealogici doar în acest browser. Nu se trimite nimic nicăieri, decât dacă deschizi harta și accepți să trimiți numele locurilor la OpenStreetMap. Salvează un arbore într-un fișier ca să ai o copie sau ca să-l muți pe alt dispozitiv.",
+  "about.notice": "Rootline este gratuit și este oferit așa cum este, fără nicio garanție. Arborii tăi depind de acest browser: dacă îi ștergi datele sau folosești o fereastră privată, pot dispărea. Finity Labs nu poate recupera arborii pierduți, așa că salvează din când în când un fișier.",
   "about.source": "Codul sursă și licența",
   "about.by": "Realizat de Finity Labs",
   "card.birthName": "născută {name}|născut {name}",

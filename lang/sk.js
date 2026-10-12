@@ -182,6 +182,7 @@ window.ROOTLINE_STRINGS.sk = {
   "people.unconnected": "Bez spojenia s osobou {name}",
   "people.empty": "Zatiaľ nikto.",
   "about.text": "Rootline uchováva tvoje rodokmene iba v tomto prehliadači a nikam nič neposiela. Jedinou výnimkou je mapa: ak ju otvoríš a súhlasíš, názvy miest sa pošlú do OpenStreetMap. Ak chceš mať kópiu alebo rodokmeň preniesť do iného zariadenia, ulož ho do súboru.",
+  "about.notice": "Rootline je zadarmo a dostávaš ho tak, ako je, bez akejkoľvek záruky. Tvoje rodokmene sú len také bezpečné ako tento prehliadač: ak vymažeš jeho údaje alebo použiješ súkromné okno, môžu zmiznúť. Finity Labs stratené rodokmene obnoviť nevie, preto si ich občas ulož do súboru.",
   "about.source": "Zdrojový kód a licencia",
   "about.by": "Autor: Finity Labs",
   "card.birthName": "rod. {name}",

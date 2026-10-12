@@ -182,6 +182,7 @@ window.ROOTLINE_STRINGS.nl = {
   "people.unconnected": "Niet verbonden met {name}",
   "people.empty": "Nog niemand.",
   "about.text": "Rootline bewaart je stambomen alleen in deze browser. Er wordt niets verstuurd, behalve als je de kaart opent en ermee akkoord gaat dat de plaatsnamen naar OpenStreetMap gaan. Sla een stamboom op als bestand om een kopie te bewaren of hem naar een ander apparaat over te zetten.",
+  "about.notice": "Rootline is gratis en wordt geleverd zoals het is, zonder enige garantie. Je stambomen zijn maar zo veilig als deze browser: als je de browsergegevens wist of een privévenster gebruikt, kunnen ze verdwijnen. Finity Labs kan verloren stambomen niet terughalen, dus sla af en toe een bestand op.",
   "about.source": "Broncode en licentie",
   "about.by": "Gemaakt door Finity Labs",
   "card.birthName": "geb. {name}",

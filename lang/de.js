@@ -182,6 +182,7 @@ window.ROOTLINE_STRINGS.de = {
   "people.unconnected": "Nicht mit {name} verbunden",
   "people.empty": "Noch niemand.",
   "about.text": "Rootline speichert deine Stammbäume nur in diesem Browser. Nichts wird irgendwohin gesendet, außer du öffnest die Karte und bist einverstanden, die Ortsnamen an OpenStreetMap zu senden. Speichere einen Stammbaum als Datei, um eine Kopie zu behalten oder ihn auf ein anderes Gerät mitzunehmen.",
+  "about.notice": "Rootline ist kostenlos und wird ohne jede Garantie angeboten, so wie es ist. Deine Stammbäume sind nur so sicher wie dieser Browser: Wenn du seine Daten löschst oder ein privates Fenster nutzt, können sie verschwinden. Finity Labs kann verlorene Stammbäume nicht zurückholen, also speichere ab und zu eine Datei.",
   "about.source": "Quellcode und Lizenz",
   "about.by": "Gemacht von Finity Labs",
   "card.birthName": "geb. {name}",

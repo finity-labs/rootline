@@ -182,6 +182,7 @@ window.ROOTLINE_STRINGS.hr = {
   "people.unconnected": "Nisu povezani s ovom osobom: {name}",
   "people.empty": "Još nikoga nema.",
   "about.text": "Rootline čuva tvoja obiteljska stabla samo u ovom pregledniku. Ništa se nikamo ne šalje, osim ako otvoriš kartu i pristaneš da se nazivi mjesta šalju projektu OpenStreetMap. Spremi stablo u datoteku ako želiš imati kopiju ili ga prenijeti na drugi uređaj.",
+  "about.notice": "Rootline je besplatan i dolazi takav kakav jest, bez ikakvog jamstva. Tvoja stabla sigurna su samo koliko i ovaj preglednik: ako obrišeš njegove podatke ili koristiš privatni prozor, mogu nestati. Finity Labs ne može vratiti izgubljena stabla, zato ih povremeno spremi u datoteku.",
   "about.source": "Izvorni kod i licencija",
   "about.by": "Izrada: Finity Labs",
   "card.birthName": "rođ. {name}",

@@ -185,6 +185,7 @@ window.ROOTLINE_STRINGS.en = {
   "people.unconnected": "Not connected to {name}",
   "people.empty": "Nobody yet.",
   "about.text": "Rootline keeps your family trees in this browser only. Nothing is sent anywhere, unless you open the map and agree to send the place names to OpenStreetMap. Save a tree to a file to keep a copy or move it to another device.",
+  "about.notice": "Rootline is free and comes as it is, with no guarantee. Your trees are only as safe as this browser: clearing its data or using a private window can erase them. Finity Labs can't recover lost trees, so save a file now and then.",
   "about.source": "Source code and licence",
   "about.by": "Made by Finity Labs",
   "card.birthName": "born {name}",

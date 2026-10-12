@@ -182,6 +182,7 @@ window.ROOTLINE_STRINGS.cs = {
   "people.unconnected": "Bez spojení s osobou {name}",
   "people.empty": "Zatím tu nikdo není.",
   "about.text": "Rootline ukládá vaše rodokmeny jen v tomto prohlížeči. Nikam nic neposílá, s jedinou výjimkou: když otevřete mapu a souhlasíte s odesláním názvů míst do OpenStreetMap. Pokud chcete mít kopii nebo rodokmen přenést do jiného zařízení, uložte ho do souboru.",
+  "about.notice": "Rootline je zdarma a dostáváte ho tak, jak je, bez jakékoli záruky. Vaše rodokmeny jsou jen tak bezpečné jako tento prohlížeč: když smažete jeho data nebo použijete anonymní okno, mohou zmizet. Finity Labs ztracené rodokmeny obnovit neumí, proto je čas od času uložte do souboru.",
   "about.source": "Zdrojový kód a licence",
   "about.by": "Autor: Finity Labs",
   "card.birthName": "roz. {name}",

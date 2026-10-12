@@ -182,6 +182,7 @@ window.ROOTLINE_STRINGS.hu = {
   "people.unconnected": "Nem kapcsolódik hozzá: {name}",
   "people.empty": "Még senki.",
   "about.text": "A Rootline a családfáidat csak ebben a böngészőben tárolja. Semmit nem küld sehova, kivéve ha megnyitod a térképet, és beleegyezel, hogy a helyneveket elküldje az OpenStreetMapnek. Ments fájlba egy családfát, ha másolatot akarsz, vagy másik eszközre vinnéd.",
+  "about.notice": "A Rootline ingyenes, és úgy kapod, ahogy van, mindenféle garancia nélkül. A családfáid csak annyira vannak biztonságban, mint ez a böngésző: ha törlöd az adatait, vagy privát ablakot használsz, elveszhetnek. A Finity Labs nem tudja visszahozni az elveszett családfákat, ezért időnként mentsd őket fájlba.",
   "about.source": "Forráskód és licenc",
   "about.by": "Készítette a Finity Labs",
   "card.birthName": "született {name}",

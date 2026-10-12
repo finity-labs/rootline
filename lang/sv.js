@@ -182,6 +182,7 @@ window.ROOTLINE_STRINGS.sv = {
   "people.unconnected": "Utan koppling till {name}",
   "people.empty": "Ingen ännu.",
   "about.text": "Rootline sparar dina släktträd bara i den här webbläsaren. Inget skickas någonstans, utom när du öppnar kartan och godkänner att platsnamnen skickas till OpenStreetMap. Spara ett träd till en fil om du vill ha en kopia eller flytta det till en annan enhet.",
+  "about.notice": "Rootline är gratis och levereras i befintligt skick, utan några garantier. Dina träd är bara så säkra som den här webbläsaren: om du rensar dess data eller använder ett privat fönster kan de försvinna. Finity Labs kan inte få tillbaka förlorade träd, så spara dem till en fil då och då.",
   "about.source": "Källkod och licens",
   "about.by": "Gjord av Finity Labs",
   "card.birthName": "född {name}",
