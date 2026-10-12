@@ -34,6 +34,7 @@ window.ROOTLINE_STRINGS.nl = {
   "empty.title": "Begin je stamboom",
   "empty.text": "Voeg de eerste persoon toe, meestal jezelf, en bouw van daaruit verder. Alles blijft in deze browser tot je het opslaat als bestand.",
   "empty.addFirst": "Eerste persoon toevoegen",
+  "empty.orOpen": "of open een opgeslagen bestand",
   "empty.orSample": "of bekijk eerst de voorbeeldfamilie",
   "panel.close": "Sluiten",
   "panel.centre": "Stamboom hier centreren",

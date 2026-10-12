@@ -37,6 +37,7 @@ window.ROOTLINE_STRINGS.en = {
   "empty.title": "Start your family tree",
   "empty.text": "Add the first person, usually yourself, and build out from there. Everything stays in this browser until you save it to a file.",
   "empty.addFirst": "Add the first person",
+  "empty.orOpen": "or open a saved file",
   "empty.orSample": "or look at the sample family first",
   "panel.close": "Close",
   "panel.centre": "Centre the tree here",

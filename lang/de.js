@@ -34,6 +34,7 @@ window.ROOTLINE_STRINGS.de = {
   "empty.title": "Beginne deinen Stammbaum",
   "empty.text": "Füge die erste Person hinzu, meistens dich selbst, und bau von dort aus weiter. Alles bleibt in diesem Browser, bis du es als Datei speicherst.",
   "empty.addFirst": "Erste Person hinzufügen",
+  "empty.orOpen": "oder öffne eine gespeicherte Datei",
   "empty.orSample": "oder sieh dir zuerst die Beispielfamilie an",
   "panel.close": "Schließen",
   "panel.centre": "Stammbaum hier zentrieren",

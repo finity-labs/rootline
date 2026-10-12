@@ -34,6 +34,7 @@ window.ROOTLINE_STRINGS.sv = {
   "empty.title": "Börja på ditt släktträd",
   "empty.text": "Lägg till den första personen, oftast dig själv, och bygg vidare därifrån. Allt stannar i den här webbläsaren tills du sparar det till en fil.",
   "empty.addFirst": "Lägg till den första personen",
+  "empty.orOpen": "eller öppna en sparad fil",
   "empty.orSample": "eller titta på exempelfamiljen först",
   "panel.close": "Stäng",
   "panel.centre": "Centrera trädet här",

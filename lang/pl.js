@@ -34,6 +34,7 @@ window.ROOTLINE_STRINGS.pl = {
   "empty.title": "Stwórz swoje drzewo genealogiczne",
   "empty.text": "Dodaj pierwszą osobę, zwykle siebie, i od niej buduj dalej. Wszystko zostaje w tej przeglądarce, dopóki nie zapiszesz drzewa do pliku.",
   "empty.addFirst": "Dodaj pierwszą osobę",
+  "empty.orOpen": "albo otwórz zapisany plik",
   "empty.orSample": "albo najpierw obejrzyj przykładową rodzinę",
   "panel.close": "Zamknij",
   "panel.centre": "Ustaw tę osobę w centrum",

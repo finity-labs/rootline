@@ -34,6 +34,7 @@ window.ROOTLINE_STRINGS.cs = {
   "empty.title": "Založte si rodokmen",
   "empty.text": "Přidejte první osobu, obvykle sebe, a od ní pokračujte dál. Všechno zůstane v tomto prohlížeči, dokud to neuložíte do souboru.",
   "empty.addFirst": "Přidat první osobu",
+  "empty.orOpen": "nebo otevřete uložený soubor",
   "empty.orSample": "nebo si nejdřív prohlédněte ukázkovou rodinu",
   "panel.close": "Zavřít",
   "panel.centre": "Vycentrovat na tuto osobu",

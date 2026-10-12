@@ -34,6 +34,7 @@ window.ROOTLINE_STRINGS.hu = {
   "empty.title": "Kezdd el a családfádat",
   "empty.text": "Add hozzá az első személyt, általában saját magadat, és onnan építkezz tovább. Minden ebben a böngészőben marad, amíg fájlba nem mented.",
   "empty.addFirst": "Első személy hozzáadása",
+  "empty.orOpen": "vagy nyiss meg egy mentett fájlt",
   "empty.orSample": "vagy nézd meg előbb a mintacsaládot",
   "panel.close": "Bezárás",
   "panel.centre": "A fa középpontja legyen ő",

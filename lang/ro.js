@@ -34,6 +34,7 @@ window.ROOTLINE_STRINGS.ro = {
   "empty.title": "Începe-ți arborele genealogic",
   "empty.text": "Adaugă prima persoană (de obicei pe tine) și construiește arborele pornind de la ea. Totul rămâne în acest browser până când îl salvezi într-un fișier.",
   "empty.addFirst": "Adaugă prima persoană",
+  "empty.orOpen": "sau deschide un fișier salvat",
   "empty.orSample": "sau uită-te mai întâi la familia de exemplu",
   "panel.close": "Închide",
   "panel.centre": "Centrează arborele aici",

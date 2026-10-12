@@ -34,6 +34,7 @@ window.ROOTLINE_STRINGS.hr = {
   "empty.title": "Započni svoje obiteljsko stablo",
   "empty.text": "Dodaj prvu osobu, obično sebe, i od nje kreni dalje. Sve ostaje u ovom pregledniku dok stablo ne spremiš u datoteku.",
   "empty.addFirst": "Dodaj prvu osobu",
+  "empty.orOpen": "ili otvori spremljenu datoteku",
   "empty.orSample": "ili najprije pogledaj primjer obitelji",
   "panel.close": "Zatvori",
   "panel.centre": "Stavi u središte",

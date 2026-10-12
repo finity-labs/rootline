@@ -34,6 +34,7 @@ window.ROOTLINE_STRINGS.sk = {
   "empty.title": "Začni svoj rodokmeň",
   "empty.text": "Pridaj prvú osobu, zvyčajne seba, a pokračuj od nej ďalej. Všetko zostáva v tomto prehliadači, kým to neuložíš do súboru.",
   "empty.addFirst": "Pridať prvú osobu",
+  "empty.orOpen": "alebo otvor uložený súbor",
   "empty.orSample": "alebo si najprv pozri ukážkovú rodinu",
   "panel.close": "Zavrieť",
   "panel.centre": "Dať do stredu rodokmeňa",

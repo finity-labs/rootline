@@ -34,6 +34,7 @@ window.ROOTLINE_STRINGS.it = {
   "empty.title": "Inizia il tuo albero genealogico",
   "empty.text": "Aggiungi la prima persona, che di solito sei tu, e allarga l'albero da lì. Tutto resta in questo browser finché non lo salvi in un file.",
   "empty.addFirst": "Aggiungi la prima persona",
+  "empty.orOpen": "oppure apri un file salvato",
   "empty.orSample": "oppure guarda prima la famiglia di esempio",
   "panel.close": "Chiudi",
   "panel.centre": "Centra l'albero qui",

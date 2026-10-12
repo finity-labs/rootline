@@ -34,6 +34,7 @@ window.ROOTLINE_STRINGS.fr = {
   "empty.title": "Commencez votre arbre généalogique",
   "empty.text": "Ajoutez la première personne, en général vous-même, et continuez à partir de là. Tout reste dans ce navigateur jusqu’à ce que vous l’enregistriez dans un fichier.",
   "empty.addFirst": "Ajouter la première personne",
+  "empty.orOpen": "ou ouvrez un fichier enregistré",
   "empty.orSample": "ou regardez d’abord la famille d’exemple",
   "panel.close": "Fermer",
   "panel.centre": "Centrer l’arbre ici",
