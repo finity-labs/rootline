@@ -173,6 +173,7 @@ window.ROOTLINE_STRINGS.sk = {
   "toast.undone": "Vrátené späť.",
   "toast.redone": "Znova vykonané.",
   "toast.storageBlocked": "Tento prehliadač si rodokmeň medzi návštevami nepamätá. Skôr než odídeš, ulož ho do súboru.",
+  "toast.sharedHome": "Doplnené aj pri: {names}.",
   "people.title": "Všetci v rodokmeni",
   "people.count": "Počet osôb: {count}",
   "people.filter": "Hľadať podľa mena alebo roku",

@@ -176,6 +176,7 @@ window.ROOTLINE_STRINGS.en = {
   "toast.undone": "Undone.",
   "toast.redone": "Redone.",
   "toast.storageBlocked": "This browser is not keeping the tree between visits. Save it to a file before you leave.",
+  "toast.sharedHome": "Also filled in for {names}.",
   "people.title": "Everyone in the tree",
   "people.count": "{count} people",
   "people.filter": "Filter by name or year",

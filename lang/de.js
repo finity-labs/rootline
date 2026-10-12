@@ -173,6 +173,7 @@ window.ROOTLINE_STRINGS.de = {
   "toast.undone": "Rückgängig gemacht.",
   "toast.redone": "Wiederhergestellt.",
   "toast.storageBlocked": "Dieser Browser behält den Stammbaum nicht bis zum nächsten Besuch. Speichere ihn als Datei, bevor du gehst.",
+  "toast.sharedHome": "Auch bei {names} eingetragen.",
   "people.title": "Alle im Stammbaum",
   "people.count": "{count} Personen",
   "people.filter": "Nach Name oder Jahr filtern",

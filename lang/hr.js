@@ -173,6 +173,7 @@ window.ROOTLINE_STRINGS.hr = {
   "toast.undone": "Poništeno.",
   "toast.redone": "Ponovljeno.",
   "toast.storageBlocked": "Ovaj preglednik ne pamti stablo između posjeta. Spremi ga u datoteku prije nego što odeš.",
+  "toast.sharedHome": "Upisano i za: {names}.",
   "people.title": "Sve osobe u stablu",
   "people.count": "Broj osoba: {count}",
   "people.filter": "Traži po imenu ili godini",

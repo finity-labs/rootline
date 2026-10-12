@@ -173,6 +173,7 @@ window.ROOTLINE_STRINGS.ro = {
   "toast.undone": "Anulat.",
   "toast.redone": "Refăcut.",
   "toast.storageBlocked": "Acest browser nu păstrează arborele de la o vizită la alta. Salvează-l într-un fișier înainte să pleci.",
+  "toast.sharedHome": "Completat și pentru {names}.",
   "people.title": "Toate persoanele din arbore",
   "people.count": "Persoane: {count}",
   "people.filter": "Caută după nume sau an",

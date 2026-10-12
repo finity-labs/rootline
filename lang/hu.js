@@ -173,6 +173,7 @@ window.ROOTLINE_STRINGS.hu = {
   "toast.undone": "Visszavonva.",
   "toast.redone": "Újra megcsinálva.",
   "toast.storageBlocked": "Ez a böngésző nem őrzi meg a családfát két látogatás között. Mentsd fájlba, mielőtt elmész.",
+  "toast.sharedHome": "{names} lakóhelye is kitöltve.",
   "people.title": "Mindenki a családfán",
   "people.count": "{count} személy",
   "people.filter": "Szűrés névre vagy évre",

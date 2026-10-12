@@ -173,6 +173,7 @@ window.ROOTLINE_STRINGS.nl = {
   "toast.undone": "Ongedaan gemaakt.",
   "toast.redone": "Opnieuw gedaan.",
   "toast.storageBlocked": "Deze browser bewaart de stamboom niet tussen bezoeken. Sla hem op als bestand voordat je weggaat.",
+  "toast.sharedHome": "Ook ingevuld voor {names}.",
   "people.title": "Iedereen in de stamboom",
   "people.count": "{count} personen",
   "people.filter": "Filter op naam of jaar",

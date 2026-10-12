@@ -173,6 +173,7 @@ window.ROOTLINE_STRINGS.cs = {
   "toast.undone": "Vráceno zpět.",
   "toast.redone": "Provedeno znovu.",
   "toast.storageBlocked": "Tento prohlížeč si rodokmen mezi návštěvami nepamatuje. Než odejdete, uložte ho do souboru.",
+  "toast.sharedHome": "Doplněno také u: {names}.",
   "people.title": "Všichni v rodokmenu",
   "people.count": "Počet osob: {count}",
   "people.filter": "Filtrovat podle jména nebo roku",

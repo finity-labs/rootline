@@ -173,6 +173,7 @@ window.ROOTLINE_STRINGS.fr = {
   "toast.undone": "Annulé.",
   "toast.redone": "Rétabli.",
   "toast.storageBlocked": "Ce navigateur ne garde pas l’arbre d’une visite à l’autre. Enregistrez-le dans un fichier avant de partir.",
+  "toast.sharedHome": "Également rempli pour {names}.",
   "people.title": "Toutes les personnes de l’arbre",
   "people.count": "{count} personnes",
   "people.filter": "Filtrer par nom ou par année",

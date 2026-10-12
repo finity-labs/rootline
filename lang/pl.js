@@ -173,6 +173,7 @@ window.ROOTLINE_STRINGS.pl = {
   "toast.undone": "Cofnięto.",
   "toast.redone": "Ponowiono.",
   "toast.storageBlocked": "Ta przeglądarka nie zachowa drzewa do następnej wizyty. Zanim wyjdziesz, zapisz je do pliku.",
+  "toast.sharedHome": "Uzupełniono też dla: {names}.",
   "people.title": "Wszyscy w drzewie",
   "people.count": "Osoby: {count}",
   "people.filter": "Wpisz imię, nazwisko lub rok",

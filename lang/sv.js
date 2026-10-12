@@ -173,6 +173,7 @@ window.ROOTLINE_STRINGS.sv = {
   "toast.undone": "Ångrat.",
   "toast.redone": "Gjort om.",
   "toast.storageBlocked": "Den här webbläsaren sparar inte trädet mellan besöken. Spara det till en fil innan du går.",
+  "toast.sharedHome": "Ifyllt även för {names}.",
   "people.title": "Alla i trädet",
   "people.count": "{count} personer",
   "people.filter": "Filtrera på namn eller år",

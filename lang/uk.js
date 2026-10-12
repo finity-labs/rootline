@@ -173,6 +173,7 @@ window.ROOTLINE_STRINGS.uk = {
   "toast.undone": "Скасовано.",
   "toast.redone": "Повторено.",
   "toast.storageBlocked": "Цей браузер не зберігає дерево між відвідуваннями. Збережіть його у файл, перш ніж піти.",
+  "toast.sharedHome": "Також заповнено для: {names}.",
   "people.title": "Усі люди в дереві",
   "people.count": "Людей: {count}",
   "people.filter": "Фільтр за іменем або роком",
